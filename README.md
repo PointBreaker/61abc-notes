@@ -23,3 +23,7 @@
 ## 课程
 
 为了方便分类，本repo目前只收集CS61A/B/C的踩坑经验，如有其他课程的坑，可以考虑自建repo。
+
+## 学习路线推荐
+
+![roadmap](https://picgo-1252947055.cos.ap-guangzhou.myqcloud.com/771648117698_.pic.jpg)
